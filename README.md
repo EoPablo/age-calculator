@@ -1,6 +1,6 @@
 # Frontend Mentor - Age calculator app
 
-!(./design/desktop-preview.jpg)
+![desktop-preview](https://github.com/user-attachments/assets/307e60f3-8955-4fe8-a0db-b8a19d3b0344)
 
 ## Welcome! 👋
 
